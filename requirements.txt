@@ -1,0 +1,9 @@
+# requirements.txt
+faker
+numpy
+pandas
+scikit-learn # for some utilities like make_classification or pre-processing, not heavy training
+sweetviz # for EDA, if you want to use it
+dtale # for EDA, if you want to use it
+plotly
+streamlit

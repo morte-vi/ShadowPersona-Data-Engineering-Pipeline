@@ -1,0 +1,18 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+venv/
+.env
+.idea/  # For PyCharm users
+.vscode/ # For VS Code users
+
+# Data
+data/*.csv  # Ignore generated CSVs if they are large
+# data/shadowpersona_processed_data.csv # Use this if you specifically want to ignore *only* the processed data
+*.db       # Database files
+
+# Prefect specific
+.prefect/
