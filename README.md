@@ -108,7 +108,7 @@ See key views of the interactive dashboard:
 
 #### Overall Behavioral Metrics
 
-*(Replace `reports/dashboard_metrics_view.png` with a screenshot showing aggregate metrics)*
+*(Replace `Assets/streamlit_dash.png` with a screenshot showing aggregate metrics)*
 
 #### Simulated Psychological Trait Distribution
 
