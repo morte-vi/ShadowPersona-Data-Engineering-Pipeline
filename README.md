@@ -8,26 +8,6 @@
 
 -----
 
-## Project Demo
-
------
-
-Witness the ShadowPersona pipeline and dashboard in action.
-
-### Data Pipeline Execution
-
-Watch the Prefect pipeline automate data generation, transformation, and saving.
-
-*(Replace `path/to/your/pipeline_execution_gif.gif` with a GIF showing your Prefect pipeline running successfully, e.g., from the Prefect UI or console output.)*
-
-### Streamlit Dashboard Walkthrough
-
-Experience the interactive dashboard, exploring user profiles and aggregated insights.
-
-*(Replace `path/to/your/dashboard_interaction_gif.gif` with a GIF demonstrating the Streamlit dashboard's interactivity and key features.)*
-
------
-
 ## Key Features & Technical Stack
 
 -----
@@ -107,27 +87,38 @@ This section provides access to detailed analyses, reports, and key visual outpu
 See key views of the interactive dashboard:
 
 #### Overall Behavioral Metrics
+![streamlit_dash](https://github.com/user-attachments/assets/1f935621-3325-46d2-9b07-c3ac813d98cd)
 
-*(Replace `Assets/streamlit_dash.png` with a screenshot showing aggregate metrics)*
+
 
 #### Simulated Psychological Trait Distribution
 
-*(Replace `reports/trait_distribution_chart.png` with a screenshot of the trait distribution chart)*
+![streamlit_dash2](https://github.com/user-attachments/assets/24cb9f70-fc9e-4e80-8677-3524b491ff2e)
 
-#### Individual User Profile
 
-*(Replace `reports/individual_profile_detail.png` with a screenshot of a detailed individual user profile)*
-
------
-
-### EDA & Analysis Reports
+### EDA & Analysis Reports (Interactive)
 
 Access deeper analytical insights into the generated data.
 
-  * **Exploratory Data Analysis (EDA) Report:**
-    **[Link to your EDA Notebook/Report, e.g., `reports/eda_report.html` or a public Jupyter Notebook viewer link]**
-    *(Replace with your actual EDA report or link.)*
-    *(Optional: Add a small screenshot or GIF of your EDA notebook/report)*
+Overall Report Dashboard 
+
+![Screenshot 2025-06-18 at 9 55 39 PM](https://github.com/user-attachments/assets/b8096c7a-3209-4e0a-abf9-8fe92be13720)
+
+Rage Clicks Report 
+
+![Screenshot 2025-06-18 at 9 57 04 PM](https://github.com/user-attachments/assets/325ca7ec-2f9f-4885-baa5-21791892b702)
+
+DoomScroll Length Report
+
+![Screenshot 2025-06-18 at 9 57 57 PM](https://github.com/user-attachments/assets/576ff42a-5ef4-405f-9f87-6ec2fc2d2c0e)
+
+Notification Response Time Report
+
+![Screenshot 2025-06-18 at 9 58 51 PM](https://github.com/user-attachments/assets/f3e849a9-d82e-4d0c-95db-e44c614e316e)
+
+Ad Category Clicked Report 
+
+![Screenshot 2025-06-18 at 9 59 53 PM](https://github.com/user-attachments/assets/ebe1f696-7160-43ff-b09d-02668afc5440)
 
 -----
 
