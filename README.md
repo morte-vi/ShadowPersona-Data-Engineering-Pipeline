@@ -57,11 +57,11 @@ Experience the interactive dashboard, exploring user profiles and aggregated ins
 1.  **Clone the repository:**
 
     ```bash
-    git clone https://github.com/<YourOrganizationName>/ShadowPersona-Data-Engineering-Pipeline.git
+    git clone https://github.com/morte-vi/ShadowPersona-Data-Engineering-Pipeline.git
     cd ShadowPersona-Data-Engineering-Pipeline
     ```
 
-    *(Adjust URL and name as needed.)*
+    
 
 2.  **Create and activate virtual environment:**
 
